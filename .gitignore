@@ -1,0 +1,5 @@
+__pychage__/
+*.pyc
+.env
+.dbdata
+.venv/
